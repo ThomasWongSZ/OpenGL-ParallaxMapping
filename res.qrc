@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>normal_mapping.vert</file>
+        <file>normal_mapping.frag</file>
+        <file>image/bricks2.jpg</file>
+        <file>image/bricks2_disp.jpg</file>
+        <file>image/bricks2_normal.jpg</file>
+        <file>image/toy_box_disp.png</file>
+        <file>image/toy_box_normal.png</file>
+        <file>image/wood.png</file>
+    </qresource>
+</RCC>
